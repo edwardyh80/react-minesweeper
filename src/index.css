@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  color: rgb(44, 41, 61);
+  background: rgb(240, 240, 245);
+  font-family: Montserrat;
+  font-weight: 700;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
